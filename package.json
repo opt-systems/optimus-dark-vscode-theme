@@ -1,0 +1,21 @@
+{
+    "name": "optimus-dark-vscode-theme",
+    "displayName": "Optimus Dark VsCode Theme",
+    "description": "Optimus Dark VSCode Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Optimus Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/optimus-dark-color-theme.json"
+            }
+        ]
+    }
+}
