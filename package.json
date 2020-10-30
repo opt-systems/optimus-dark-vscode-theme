@@ -3,6 +3,12 @@
     "displayName": "Optimus Dark VsCode Theme",
     "description": "Optimus Dark VSCode Theme",
     "version": "0.0.1",
+    "publisher": "optsystems",
+    "icon": "images/icon.png",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/opt-systems/optimus-dark-vscode-theme.git"
+    },
     "engines": {
         "vscode": "^1.50.0"
     },
